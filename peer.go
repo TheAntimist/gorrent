@@ -618,7 +618,7 @@ func main() {
 	if len(os.Args) > 1 {
 		client.FOLDER = path.Dir(strings.Join(os.Args[1:], " "))
 	}
-	fmt.Println(" [debug ]Got file folder:", client.FOLDER)
+	fmt.Println(" [debug] Got file folder:", client.FOLDER)
 	client.init()
 	inputLoop()
 }

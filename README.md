@@ -48,7 +48,7 @@ On the peer host run the binary from `build/peer`
 Hello User! Welcome back to get your files
 
 
- [debug ]Got file folder: .
+ [debug] Got file folder: .
  [debug] Started listening on port 0.0.0.0:36039
 fs>
 ```
