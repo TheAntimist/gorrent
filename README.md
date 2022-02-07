@@ -1,4 +1,4 @@
-# CSE 513 - Project 1 - Peer to Peer File Sharing System
+# Peer to Peer File Sharing System
 
 ## Overview
 
